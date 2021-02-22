@@ -1,5 +1,5 @@
 Name: Seena Shafai
-File: parser.js
+File: `parser.js`
 IDE: Visual Studio Code
 
 Succesfully retrieves data from the Ampify endpoint and sorts said data into their genres.
@@ -19,6 +19,6 @@ Steps taken to produce solution:
 
 How to run script: (assuming Node.JS is installed)
 
-1. Navigate to directory containing 'parser.js' file in the command line/terminal
-2. Execute: 'node parser.js'
+1. Navigate to directory containing `parser.js` file in the command line/terminal
+2. Execute: `node parser.js`
 3. The program runs, and the outputs are displayed in the console
