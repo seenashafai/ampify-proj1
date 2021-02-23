@@ -1,6 +1,6 @@
-Name: Seena Shafai   
-Source code file: `calculator-main`
-Executable file: `test1.exe`
+Name: Seena Shafai  
+Source code file: `calculator-main`  
+Executable file: `test1.exe`  
 IDE: Visual Studio  
 
 Modified the provided `calculator-main` program to add the following functionality:
