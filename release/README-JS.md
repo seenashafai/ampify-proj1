@@ -1,6 +1,6 @@
-Name: Seena Shafai
-File: `parser.js`
-IDE: Visual Studio Code
+Name: Seena Shafai   
+File: `parser.js`  
+IDE: Visual Studio Code  
 
 Succesfully retrieves data from the Ampify endpoint and sorts said data into their genres.
 
