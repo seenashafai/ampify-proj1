@@ -11,4 +11,5 @@ Modified the provided `calculator-main` program to add the following functionali
 
 To run solution:
 
-Open `test1.exe` executable
+1. Open `test1.exe` executable
+2. The program runs, and can be interacted with in the console
